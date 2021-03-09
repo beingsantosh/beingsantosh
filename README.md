@@ -7,6 +7,7 @@ Web app deployed on Heroku. Model is trained with LSTM/GloVe. Data was web scrap
 ## Master Thesis Project
 Master thesis on recommender systems. Colloborative filtering concept was used to select top N items. 
 Thesis topic: Investigating the accuracy of different distance measures for determining the proximity between the items in movie recommender systems.
+
 [Thesis project](https://github.com/beingsantosh/Final-thesis-work-on-Recommender-System)
 
 ## Making exploratory data analysis easy 
