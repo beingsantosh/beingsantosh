@@ -18,7 +18,8 @@ Below repository containes multiple notebooks to eloborate about EDA. Python lib
 
 ## Youtube channel
 I utilize the platform to share my knowledge to wider audience, especially the new aspirants. 
-[link](https://www.youtube.com/channel/UCKGTj6idu9jb1jx06YAphCA)
+
+[Youtube Link](https://www.youtube.com/channel/UCKGTj6idu9jb1jx06YAphCA)
 
 
 <!--
