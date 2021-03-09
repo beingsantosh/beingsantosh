@@ -1,14 +1,12 @@
 
 ## Stock Price Prediction
-
-I recently worked on Stock price prediction problem. It was about training the model with the last 10 years news headlines and stock prices. Neural network once trained, are ready for predicting the stock. It used beautifulsoup and selenium for web scrapping, later data was processed with the help of pandas,regex, spacy etc. Modelling was done through LSTM with GloVe embedding. In end, web application was deployed on heroku platform with routing on flask. 
+Web app deployed on Heroku. Model is trained with LSTM/GloVe. Data was web scrapped from beautifulcoup and selenium.
 
 [Nifty50 Prediction](https://github.com/beingsantosh/heroku-app-nifty50)
 
 ## Master Thesis Project
-My master thesis project was on recommender systems. I investigated the comparison results between the different distance measures used in top N recommender system.
-Pearson Correlation Coefficient, Cosine Similarity, Spearman Rank Correlation, kendall rank coefficient.
-
+Master thesis on recommender systems. Colloborative filtering concept was used to select top N items. 
+Thesis topic: Investigating the accuracy of different distance measures for determining the proximity between the items in movie recommender systems.
 [Thesis project](https://github.com/beingsantosh/Final-thesis-work-on-Recommender-System)
 
 ## Making exploratory data analysis easy 
