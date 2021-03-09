@@ -1,4 +1,9 @@
-### Hi there 👋
+
+[Nifty50 Prediction](https://github.com/beingsantosh/heroku-app-nifty50)
+
+[Thesis project](https://github.com/beingsantosh/Final-thesis-work-on-Recommender-System)
+
+[Visualization libraries](https://github.com/beingsantosh/Visualization)
 
 <!--
 **beingsantosh/beingsantosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
