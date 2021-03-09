@@ -1,6 +1,6 @@
 
 ## Stock Price Prediction
-Web app deployed on Heroku. Model is trained with LSTM/GloVe. Data was web scrapped from beautifulcoup and selenium.
+Web app deployed on Heroku and AWS EC2. Model is trained with LSTM/GloVe. Data was web scrapped from beautifulcoup and selenium.
 
 [Nifty50 Prediction](https://github.com/beingsantosh/heroku-app-nifty50)
 
