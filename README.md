@@ -11,7 +11,7 @@ Thesis topic: Investigating the accuracy of different distance measures for dete
 
 [Thesis project](https://github.com/beingsantosh/Final-thesis-work-on-Recommender-System)
 
-## Making exploratory data analysis easy 
+## Complete breakdown on exploratory data analysis 
 Below repository containes multiple notebooks to eloborate about EDA. Python libraries used are seaborn, matplotlib, pandas.
 
 [EDA](https://github.com/beingsantosh/Visualization)
