@@ -17,7 +17,7 @@ Below repository containes multiple notebooks to eloborate about EDA. Python lib
 [EDA](https://github.com/beingsantosh/Visualization)
 
 ## Youtube channel
-I utilize the platform to share my knowledge to wider audience. 
+I utilize the platform to share my knowledge to wider audience, especially the new aspirants. 
 [link](https://www.youtube.com/channel/UCKGTj6idu9jb1jx06YAphCA)
 
 
