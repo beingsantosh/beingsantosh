@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/website?label=Santosh&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/santoshkumar11/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Santosh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dataforbusines?s=08)
 
-## I'm a AI & Cricket Enthusiast! 
+## I'm an AI & Cricket Enthusiast! 
 
 - 🔭 I'm currently focussing on groundbreaking business problems and their solutions via data.   
 - 🌱 Learning German language is helping me broaden the perspective. 
