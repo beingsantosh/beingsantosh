@@ -8,8 +8,8 @@
 - 🔭 I'm currently focussing on groundbreaking business problems and their solutions via data.   
 - 🌱 Learning German language is helping me broaden the perspective. 
 - 🥅 2021 Goals: Gain expertise in cloud from Data Science perspective. 
-- 💬 Ask me about sotware testing lifecycle and its cordial relation with business.   
-- ⚡ Fun fact: I love sports especially cricket. I am part of köln cricket team
+- 💬 Discuss with me about software testing lifecycle and its connection with business.   
+- ⚡ Fun fact: I love sports especially cricket. I am part of köln cricket team.
 
 
 ### 📺 Latest Project
