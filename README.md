@@ -12,6 +12,11 @@
 - ⚡ Fun fact: I love sports especially cricket. I am part of köln cricket team
 
 
+### 📺 Latest Projects
+
+- Project is to predict the stock price from news headlines. The project included web scrapping, data preprocessing, modelling, and deploying the app to cloud. 
+- [Direct app link](https://nifty50-prediction-app.herokuapp.com/)
+- [Stock price prediction problem](https://github.com/beingsantosh/heroku-app-nifty50)
 
 ### 📺 Latest YouTube Videos
 
